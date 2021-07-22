@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "刘玄德",
+      "department": "aaa",
+      "bed-num": "01-14",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "2",
+      "name": "司马懿",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "孙思邈"
+    },
+    {
+      "id": "3",
+      "name": "曹孟德",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "曹丕",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "曹植",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "刘协",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "伏寿",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "荀彧",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "甄宓",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "刘辨",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗"
+    },
+    {
+      "id": "1",
+      "name": "曹节",
+      "department": "aaa",
+      "bed-num": "20A1",
+      "diagnosis": "cccc",
+      "attending-physician": "华佗ABc"
+    }
+  ],
+  "code": 200,
+  "msg": "",
+  "offset": 0,
+  "page-size": 20,
+  "total": 100
+}
